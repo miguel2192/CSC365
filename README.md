@@ -9,6 +9,6 @@ http://gee.cs.oswego.edu/dl/csc365/
 #
 
 - [x] Assignment 1 - http://gee.cs.oswego.edu/dl/csc365/a1.html
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [ ] Assignment 2 
+- [ ] Assignment 2
 #
