@@ -1,5 +1,5 @@
 # CSC365
-######Advance Data Structures and File processing(CSC365) taught by Prof. Doug Lea at SUNY Oswego.
+###### Advance Data Structures and File processing(CSC365) taught by Prof. Doug Lea at SUNY Oswego.
 # 
 > Doug Lea's Website
 http://g.oswego.edu/
