@@ -10,5 +10,5 @@ http://gee.cs.oswego.edu/dl/csc365/
 
 - [x] Assignment 1 - http://gee.cs.oswego.edu/dl/csc365/a1.html
 - [ ] Assignment 2 
-- [ ] Assignment 2
+- [ ] Assignment 3
 #
