@@ -7,6 +7,8 @@ http://g.oswego.edu/
 > Main Course Website
 http://gee.cs.oswego.edu/dl/csc365/
 #
-> Assignment 1
-http://gee.cs.oswego.edu/dl/csc365/a1.html
+
+- [x] Assignment 1 - http://gee.cs.oswego.edu/dl/csc365/a1.html
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 #
