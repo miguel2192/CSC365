@@ -8,7 +8,7 @@ http://g.oswego.edu/
 http://gee.cs.oswego.edu/dl/csc365/
 #
 
-- [x] Assignment 1 - http://gee.cs.oswego.edu/dl/csc365/a1.html :+1:
+- [x] Assignment 1 [x] DEMO - http://gee.cs.oswego.edu/dl/csc365/a1.html :+1:
 - [ ] Assignment 2 
 - [ ] Assignment 3
 #
